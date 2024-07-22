@@ -70,12 +70,6 @@ export const EXAMPLE_PROJECTS = [
     url: 'https://github.com/supabase/supabase/tree/master/examples/todo-list/nextjs-todo-list',
   },
   {
-    framework: 'Svelte',
-    title: 'Svelte todo list app',
-    description: 'Sveltejs todo with TailwindCSS and Snowpack',
-    url: 'https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list',
-  },
-  {
     framework: 'Flutter',
     title: 'Flutter MFA app',
     description: 'A Flutter app demonstrating how to implement MFA',
