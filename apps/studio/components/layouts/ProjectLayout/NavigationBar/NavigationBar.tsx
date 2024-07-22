@@ -116,8 +116,8 @@ const NavigationBar = () => {
               onClick={onCloseNavigationIconLink}
             >
               <img
-                alt="Supabase"
-                src={`${router.basePath}/img/supabase-logo.svg`}
+                alt="Kalbe"
+                src={`${router.basePath}/img/logo.svg`}
                 className="absolute h-[40px] w-6 cursor-pointer rounded"
               />
             </Link>
